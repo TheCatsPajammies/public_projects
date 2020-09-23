@@ -1,2 +1,2 @@
 # public_projects 
-Python projects I've been working on through JetBrains academy.
+A collection Python projects I've been working on through JetBrains academy.
